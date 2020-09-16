@@ -1,2 +1,2 @@
 # MMHAREnsemNet
-code repo for MMHAR-net
+code repo for MMHAREnsemNet
